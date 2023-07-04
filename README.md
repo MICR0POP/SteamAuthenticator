@@ -9,7 +9,7 @@ This script is compatible with Python 3 and requires the `requests` package.
 ## How to Use
 
 1. Clone the repository or download the Python file to your local machine.
-2. Input the SteamGuard Files on the .maFiles folder, you can extract them files using [SDA](https://github.com/Jessecar96/SteamDesktopAuthenticator) or an root device.
+2. Input the SteamGuard Files on the .maFiles folder, you can extract the .maFiles using [SDA](https://github.com/Jessecar96/SteamDesktopAuthenticator) or an root device.
 3. Open the terminal and navigate to the directory containing the script `cd SteamAuthenticator`.
 4. You need to install the necessary dependencies or requirements to run the script. The command: `pip install requests`.
 5. Run the script using Python by typing `python SteamGuard.py` in the terminal.

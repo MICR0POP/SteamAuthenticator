@@ -25,6 +25,9 @@ The script works as follows:
 - To stop the script, press `Ctrl+C`.
 - After the progress bar, the console is cleared and the script runs again.
 
+## Example
+<img width="596" alt="Screenshot 2023-07-04 at 12 24 44" src="https://github.com/MICR0POP/SteamAuthenticator/assets/136286357/57f7621f-bb8f-425b-a942-71f58b72703a">
+
 ## Troubleshooting
 
 Make sure to check if your directory is not empty and it has '.maFile' files, as the script requires them to run properly.
